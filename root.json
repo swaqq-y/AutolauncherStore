@@ -1,10 +1,15 @@
 {
-  "scriptsnumber" : "1",
+  "scriptsnumber" : "2",
   "scripts" : {
     "script0" : {
       "name" : "Example Script",
       "description" : "An example script. Lol.",
       "scriptname" : "example.py"
+    },
+    "script1" : {
+      "name" : "Example Script 2: The Example",
+      "description" : "...",
+      "scriptname" : "examplee.py"
     }
   }
 }
