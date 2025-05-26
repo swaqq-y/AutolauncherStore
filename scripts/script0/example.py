@@ -1,0 +1,1 @@
+print("Welcome to example script! There is no functional...")

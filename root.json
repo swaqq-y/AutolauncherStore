@@ -1,0 +1,10 @@
+{
+  "scriptsnumber" : "1",
+  "scripts" : {
+    "script0" : {
+      "name" : "Example Script",
+      "description" : "An example script. Lol.",
+      "scriptname" : "example.py"
+    }
+  }
+}
